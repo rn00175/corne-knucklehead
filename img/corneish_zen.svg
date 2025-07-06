@@ -749,9 +749,9 @@ path.combo {
 <text x="840" y="79" class="combo shifted">_</text>
 </g>
 <g class="combo backspace combopos-11">
-<rect rx="4" ry="4" x="825" y="75" width="30" height="30" class="combo backspace"/>
-<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="829" y="79" height="22" width="22.0" class="combo backspace tap glyph mdi:backspace"/>
-<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="832" y="79" height="16" width="16.0" class="combo backspace shifted glyph mdi:backspace-reverse-outline"/>
+<rect rx="4" ry="4" x="945" y="30" width="30" height="30" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="949" y="34" height="22" width="22.0" class="combo backspace tap glyph mdi:backspace"/>
+<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="952" y="34" height="16" width="16.0" class="combo backspace shifted glyph mdi:backspace-reverse-outline"/>
 </g>
 <g class="combo combopos-12">
 <rect rx="4" ry="4" x="905" y="65" width="30" height="30" class="combo"/>
@@ -1039,9 +1039,9 @@ path.combo {
 <text x="840" y="79" class="combo shifted">_</text>
 </g>
 <g class="combo backspace combopos-11">
-<rect rx="4" ry="4" x="825" y="75" width="30" height="30" class="combo backspace"/>
-<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="829" y="79" height="22" width="22.0" class="combo backspace tap glyph mdi:backspace"/>
-<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="832" y="79" height="16" width="16.0" class="combo backspace shifted glyph mdi:backspace-reverse-outline"/>
+<rect rx="4" ry="4" x="945" y="30" width="30" height="30" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="949" y="34" height="22" width="22.0" class="combo backspace tap glyph mdi:backspace"/>
+<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="952" y="34" height="16" width="16.0" class="combo backspace shifted glyph mdi:backspace-reverse-outline"/>
 </g>
 <g class="combo combopos-12">
 <rect rx="4" ry="4" x="905" y="65" width="30" height="30" class="combo"/>
@@ -1283,9 +1283,9 @@ path.combo {
 <text x="840" y="79" class="combo shifted">_</text>
 </g>
 <g class="combo backspace combopos-1">
-<rect rx="4" ry="4" x="825" y="75" width="30" height="30" class="combo backspace"/>
-<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="829" y="79" height="22" width="22.0" class="combo backspace tap glyph mdi:backspace"/>
-<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="832" y="79" height="16" width="16.0" class="combo backspace shifted glyph mdi:backspace-reverse-outline"/>
+<rect rx="4" ry="4" x="945" y="30" width="30" height="30" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="949" y="34" height="22" width="22.0" class="combo backspace tap glyph mdi:backspace"/>
+<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="952" y="34" height="16" width="16.0" class="combo backspace shifted glyph mdi:backspace-reverse-outline"/>
 </g>
 <g class="combo combopos-2">
 <rect rx="4" ry="4" x="905" y="65" width="30" height="30" class="combo"/>
