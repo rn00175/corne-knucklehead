@@ -163,6 +163,9 @@ combos:
 - p: [7, 19]
   k: {h: '-', s: _}
   l: [L1, L2, Fn]
+- p: [7, 19]
+  k: {t: '$$mdi:backspace$$', s: '$$mdi:backspace-reverse-outline$$', type: backspace}
+  l: [L1, L2, Fn]
 - p: [8, 20]
   k: {h: '=', s: +}
   l: [L1, L2, Fn]
