@@ -37,7 +37,7 @@ layers:
   - {t: ., s: '>'}
   - {t: ;, s: ':'}
   - {t: Fn, h: '$$mdi:close-box$$'}
-  - {t: '$$mdi:backspace$$', s: '$$mdi:backspace-reverse-outline$$', type: backspace}
+  - $$mdi:apple-keyboard-command$$
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: L2, h: '$$mdi:gesture-tap-hold$$', s: '$$mdi:alpha-w-box$$'}
   - {t: L2, h: '$$mdi:gesture-tap-hold$$', s: '$$mdi:alpha-w-box$$'}
@@ -160,6 +160,9 @@ combos:
 - p: [17, 29]
   k: )
   l: [L1, L2]
+- p: [14, 16]
+  k: F16
+  l: [L1, L2]
 - p: [7, 19]
   k: {h: '-', s: _}
   l: [L1, L2, Fn]
@@ -187,6 +190,9 @@ combos:
 - p: [21, 33]
   k: {h: \, s: '|'}
   l: [L1, L2, Fn]
+- p: [19, 21]
+  k: F16
+  l: [L1, L2]
 - p: [1, 2, 3, 4]
   k: $$mdi:bluetooth-off$$
   l: [Fn]
